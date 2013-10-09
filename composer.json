@@ -1,0 +1,15 @@
+{
+    "name": "ftven-sivideo/zend-config",
+    "description": "Zend_Config Component",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Arnaud Georgin",
+            "email": "arnaud.georgin.ext@francetv.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
