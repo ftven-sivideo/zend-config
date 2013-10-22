@@ -8,8 +8,18 @@
             "email": "arnaud.georgin.ext@francetv.fr"
         }
     ],
-    "minimum-stability": "stable",
+	 "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/ftven-sivideo/zend-exception.git"
+        }
+    ],
     "require": {
-
-    }
+		"ftven-sivideo/zend-exception": "dev-master"
+    },
+	"autoload": {
+		"psr-0": {
+			"Zend": ""
+		}
+	}
 }
